@@ -1,0 +1,12 @@
+
+
+## 📊 Architecture Diagram
+
+<p align="center">
+  <img src="assets/devops_architecture_final.png" width="900"/>
+</p>
+
+<p align="center">
+  <i>Layered DevOps analytics architecture integrating multi-source data (Azure DevOps, Zendesk, SonarCloud), 
+  structured using a star schema and analyzed using DAX-driven KPIs for actionable insights.</i>
+</p>
